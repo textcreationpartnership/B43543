@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christ's voice to sinners: or, Christ waiting at the door of the sinner's heart for entrance. Wherein is shewn from Scripture how wonderful desirous the Lord Jesus is to get into every poor sinner's heart.  With many motives to perswade every poor sinner to open the door of their hearts to the Lord Jesus Christ.  As also several true characters of a real sound Christian, and the marks of a hypocrite or false professor, shewing how far a professor may go, and yet be but almost a Christian.  Being of excellent use to all those that desire to know how the case stands between them and their souls / by T.O. D.D.</title>
+            <author>T. O.</author>
+         </titleStmt>
+         <extent>Approx. 30KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43543</idno><idno type="EEBO-CITATION">688636265</idno>
+  <idno type="VID">212040</idno>
+  <idno type="EEBO-PROQUEST">2248529797</idno>
+  
+            <idno type="OCLC"> 688636265</idno>
+            <idno type="OCLC">ocn 688636265</idno>
+            <idno type="STC">Wing O10A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43543)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 212040)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2997:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christ's voice to sinners: or, Christ waiting at the door of the sinner's heart for entrance. Wherein is shewn from Scripture how wonderful desirous the Lord Jesus is to get into every poor sinner's heart.  With many motives to perswade every poor sinner to open the door of their hearts to the Lord Jesus Christ.  As also several true characters of a real sound Christian, and the marks of a hypocrite or false professor, shewing how far a professor may go, and yet be but almost a Christian.  Being of excellent use to all those that desire to know how the case stands between them and their souls / by T.O. D.D.</title>
+                  <author>T. O.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Charles Passinger at the Seven Stars in the New Building on London-Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publisher's advertisements on p. 23-24 at end.</note>
+                  <note>Imperfect: faded print with some loss of text.</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Devotional literature, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Zev Berger </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Zev Berger</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:212040:1"/>
+            <pb facs="tcp:212040:2"/>
+            <p>Christ's Voice TO SINNERS: OR, Christ waiting at the Door of the Sin<g ref="char:EOLhyphen"/>ner's Heart for Entrance. Wherein is shewn from Scripture how won<g ref="char:EOLhyphen"/>derful desirous the Lord Jesus is to get in<g ref="char:EOLhyphen"/>to every poor Sinner's Heart. With many Motives to perswade every poor Sinner to open the Door of their Hearts to the <hi>Lord Jesus Christ.</hi> As also several true Characters of a Real Sound Chri<g ref="char:EOLhyphen"/>stian, and the marks of a Hypocrite or false Pro<g ref="char:EOLhyphen"/>fessor, shewing how far a Professor may go, and yet be but almost a Christian. Being of Excellent Use to all those that defire to know how the Case slands between them and their Souls,</p>
+            <p>
+               <q>
+                  <bibl>
+                     <hi>Rev. 3.20.</hi>
+                  </bibl> Behold I stand at the Door and Knock, If any Man hear my Voice and open the Door, I will come in to him, and will Sup with him, and he with me.</q>
+            </p>
+            <q>
+               <bibl>
+                  <hi>John 10. V. 27.</hi>
+               </bibl>
+               <p>My Sheep hear my Voice, and I know them, and they follow me.</p>
+            </q>
+            <p>By <hi>T. O.</hi> D.D.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Charles Passinger</hi> at the <hi>Seven-Stars</hi> in the New Buildings on <hi>London-Bridge.</hi> 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:212040:3"/>
+            <pb n="3" facs="tcp:212040:3"/>
+            <head>Christ's Voice TO SINNERS, &amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Rev. 3.20.</hi>
+                  </bibl>
+                  <p>Behold, I stand at the Door and knock, if any man hear my Voice and open the Door, I will come in to him, and will Sup with him, and he with me.</p>
+               </q>
+            </epigraph>
+            <p>THis Text is part of the Epistle written to the Church of <hi>Laodicea,</hi> who was at this time in a very sad Condition, Iull'd asleep in the Cradle of self-Confidence; In which Epistle we have these parts:</p>
+            <pb n="4" facs="tcp:212040:4"/>
+            <p n="1">1. The Inscrisption shewing from, and to whom it was written: to <hi>Laodicea;</hi> with a Description of him that sent it. <hi>v.</hi> 14.</p>
+            <p n="2">2. We have the Body of the Epistle in which are these parts.</p>
+            <p n="1">1. We have a Disease discovered.</p>
+            <p n="2">2. A Remedy prescribed by our Lord Jesus Christ to poor secure Sinners, and Pro<g ref="char:EOLhyphen"/>fessors; <hi>Behold Istand at the Door,</hi> &amp;c. first we have in it a note of Attention, Behold; sometimes it is used as a note of Admira<g ref="char:EOLhyphen"/>tion.</p>
+            <div type="section">
+               <head>The Observations are these.</head>
+               <p n="1">1. Christ is but at the Door of many Pro<g ref="char:EOLhyphen"/>fessors and Sinners heart: <hi>I stand at the Door,</hi> &amp;c.</p>
+               <p n="2">2. Christ stands at the Door of many a poor Soul, willing and ready to come in up<g ref="char:EOLhyphen"/>on their opening to him: <hi>I stand at the Door,</hi> &amp;c.</p>
+               <p>Christ doth not only stand at the Door of a poor Sinners heart, but he knocks: <hi>I stand at the Door and knock,</hi> &amp;c.</p>
+               <p n="4">4. Christ will not refuse to enter the vi<g ref="char:EOLhyphen"/>lest and most unworthy heart that opens to him: <hi>If any man hear my Voice, and open to me,</hi> &amp;c.</p>
+               <pb n="5" facs="tcp:212040:4"/>
+               <p n="5">5. Poor Sinners must hear Christ's Voice, before they can open unto him: <hi>If any man hear my Voice, and open unto me,</hi> &amp;c.</p>
+               <p n="6">6. Some Souls hear Christ that do not o<g ref="char:EOLhyphen"/>pen unto Christ: <hi>If any man hear my Voice and open unto me,</hi> &amp;c.</p>
+               <p n="7">7. Christ will be entring where Souls are opening: <hi>I will come in to him,</hi> &amp;c.</p>
+               <p n="8">8. Christ will keep up a sweet Commu<g ref="char:EOLhyphen"/>nion with all those Souls that open unto him: <hi>I will sup with him,</hi> &amp;c.</p>
+               <p>All Souls that open to Christ keep a sweet Communion with him also: <hi>And he with me,</hi> &amp;c,</p>
+               <p n="1">1. Christ is but at the Door of many <hi>Laodiceans,</hi> Professors and Sinners hearts, Christ doth but stand at their Door, be<g ref="char:EOLhyphen"/>cause their unbelief hath boulted the Door against Christ: how is Christ said to come into a Soul or dwell in a Soul. The Apostle answers this querie, by that Prayer for the <hi>Ephesians,</hi> that Christ may dwell in the hearts by Faith, unbelief leaves no room in the Soul for Christ, <hi>Ephesians,</hi> 3.17. O Sinner while thou art in thine unbelieving State, Christ is but at the Door though thou mayst think he is in the house, and in the heart: he gave his only begotten Son, that whoso<g ref="char:EOLhyphen"/>ever believes in him should have everlasting
+<pb n="6" facs="tcp:212040:5"/>Life, <hi>John</hi> 3.16. Oh when the Soul si under the Exercise of Faith, it sets all wide open to Christ, Crying, come in thou blessed of the Lord why standest thou without.</p>
+               <p n="2">2. Many poor Souls, Christ is but at their Doors, they have let in some of his Atten<g ref="char:EOLhyphen"/>dants and they think because of this the King of Glory is entered in. Oh how many poor Souls wofully miscarry upon this point, and eternally perish upon this mistake: you have let in family Duty, religious Perfor<g ref="char:EOLhyphen"/>mances, and in that you have done so you have done well, but these may be let into the house, and yet the King of Glory kept still at the Door. Did not you set upon them before your closure with Christ? nay do you not keep them up, and look not at the pre<g ref="char:EOLhyphen"/>sence and injoyment of God in them? now it is the presence of the King that makes the Court, did not the Pharisees do so, and yet strangers to Christ, nay Enemies to him? did not the Jews do so, when their hands were full of Blood? Oh mistake not your Souls in these as the <hi>Laodiceans</hi> did. You may account your family-Duties your Riches, and yet be poor beggaly Souls in point of Faith; Re<g ref="char:EOLhyphen"/>tinue should follow the King, O let Christ and his Train go together.</p>
+               <p n="3">3. Christ is at the Door of many a Pro<g ref="char:EOLhyphen"/>fessor
+<pb n="7" facs="tcp:212040:5"/>and Sinner: because they retain some strangers, some Enemies to Christ: he will not come in where he sees strangers, I mean some beloved sin. <hi>Jer.</hi> 2.25. It was a sad saying of <hi>Israel,</hi> Strangers have I loved, and after them will I go: Sinners look to your hearts, see that you entertain no beloved Lust: If you do, you cannot entertain your beloved Lord: what can you find in your hearts, your base Lust should be preferred before your blessed Lord? will you thus re<g ref="char:EOLhyphen"/>quite the Lord, foolish people and unwise?</p>
+               <p n="4">4. Christ is at the Door of many a Professor and Sinner: because they have not been humbled under the sense of Sin, <hi>Isa</hi> 57.15. but with him says God will I dwell, that is of an humble and contrite heart, to revive it: he takes not up a stand at the Door, but takes his dwelling in the house of such a Soul. Poor Sinner never won<g ref="char:EOLhyphen"/>der at Christ being at the Door, If thou ne<g ref="char:EOLhyphen"/>ver sawest thy need of him to give him an Invitation in.</p>
+               <p n="5">5. Christ is only at the Door of some Professors and Sinners, because their Door<g ref="char:EOLhyphen"/>posts have not the sprinklings of the Pascal Lamb upon them, now he comes; not into the Soul, but he sprinkles his Blood upon it first, and then the destroyer was to pass over.
+<pb n="8" facs="tcp:212040:6"/>Christ takes possession by sprinkling his Blood upon the Soul: O this Soul is mine, I have died for it: If thou hast not felt in some measure this Blood, I am afraid that Christ is but at the Door: O how speedily doth the Soul open to Christ, when the Blood of Christ cleanses the heart, O sinners get this Blood upon your Door-posts.</p>
+            </div>
+            <div type="section">
+               <head>Application.</head>
+               <p>Is it so that Christ stands at the Door of many Professors and Sinners? then, 1. It is of Information to Professors, <hi>Laodiceans,</hi> 2. To prophane Sinners.</p>
+               <p n="1">1. To formal professing <hi>Laodiceans;</hi> it shews the sad condition of such poor Souls who think Christ is housed in their hearts, and he is got no further than the Door, they think they are supping with Christ, and all this while he and they are meer Strangers, no familiar acquaintance betwixt them, they let him stand without as one neglected and slighted, while others are taken in: If you ask wherein doth the misery of a formal <hi>La<g ref="char:EOLhyphen"/>odicean</hi> lie, at whose Door Christ stands and can have no Entrance, I shall shew brief<g ref="char:EOLhyphen"/>ly.</p>
+               <pb n="9" facs="tcp:212040:6"/>
+               <p n="1">1. Such poor Souls profess under a delu<g ref="char:EOLhyphen"/>sion, which is a woful misery: this poor Church was under a sad Delusion for all their Profession: Oh what self-flattery was sound in the skirts of <hi>Laodicea,</hi> and is it not to be found too too much amongst us, can there be a sadder judgment upon a Person, or Church, or Family, than to be given to a deceived heart, to have a better opinion of themselves, than Christ hath: is it not a piece of wrath from God to be given up to a Delusion, nay, to a strong Delusion to be<g ref="char:EOLhyphen"/>lieve a lie, <hi>Rev.</hi> 22. they say they are A<g ref="char:EOLhyphen"/>postles, but are not, but thou hast found them Liars: O consider I pray how dismal this will be to your deluded Souls, O what a Soul confounding mistake will it be to drop into Hell, when thou lookest for Hea<g ref="char:EOLhyphen"/>ven!</p>
+               <p n="2">2. Such a Soul under a formal Profession is harder to convince of his sad and secure con<g ref="char:EOLhyphen"/>dition, than open prophane Sinners: there<g ref="char:EOLhyphen"/>fore our Lord did thunder out such dreadful Woes against the Pharisees, who were like the <hi>Laodiceans</hi> full and whole Souls, and were conceited they stood in need of nothing; one would have thought a few woes would have been wounding and convincing unto them, O but how hardly are such convinced of their
+<pb n="10" facs="tcp:212040:7"/>need of Christ, therefore our Lord preaches that Doctrine to them; <hi>The whole need not the Physician but those that are sick, Matt.</hi> 9.12. and at another time he tells them, Pub<g ref="char:EOLhyphen"/>licans and Harlots shall enter into the King<g ref="char:EOLhyphen"/>dom of Heaven before such: nay to con<g ref="char:EOLhyphen"/>vince such, God is put to his Oath: as I live saith the Lord I will not be enquired of by you; They thought they would enquire and sin, sin and pray, and then they thought all was well. O but says God, if you will not lay your sins aside you may as well lay your Duties aside: And is not this a great misery to think your selves Believers, when you are but Pharisees? you are in a worse condition than prophane Sinners.</p>
+               <p n="3">3. Such souls under a formal Profession, that think Christ is in the house, when he stands but at the Door, shall be discovered; God will discover who is within, whether Christ or Corruption bear sway. Sinner God will find you out, as he found out the man that had not on the Wedding Garment, <hi>Mat.</hi> 22.12. Oh what work will this make in thy Soul to be found to be none of the Lords? The foolish Virgins were discovered at last, and the foolish Builders, when the Floods beat and the rain fell, then the Foun<g ref="char:EOLhyphen"/>dation was discovered to be on the Sands.</p>
+               <pb n="11" facs="tcp:212040:7"/>
+               <p n="4">4. Such Children of the Kingdom who have made Christ stand without their hearts, he will make them stand without his hear<g ref="char:EOLhyphen"/>ing. Not every one that says Lord, Lord, shall enter into the Kingdom of Heaven; but see their claim, they talk at a high rate, O but yet he never knew them, <hi>Mat.</hi> 7. <hi>v.</hi> 23.</p>
+               <p n="5">5. Such as are under a form of Profession, and under no real possession of Christ, their condemnation will be greater than others, <hi>Chorazins</hi> Hell is an hotter Hell than <hi>Sidons:</hi> We read of some having their Portion with Hypocrites and unbelievers, Hypocrites says one are the free-holders of Hell, O what a piece of misery will it be to perish under so smooth a Profession.</p>
+               <p>The second branch of the Information is to shew us the misery of Sinners, at whose Door Christ stands, and cannot get En<g ref="char:EOLhyphen"/>trance?</p>
+               <p n="1">1. Such a Souls misery lieth in this, its perishing will be wilful and inexcusable; thou art inexcusable, O man, as the Apostle saith, thy Destruction is of thy self: O poor Soul thou hast destroyed thy self: <hi>O Israel,</hi> did not Christ cry unto thee, behold I stand at the Door and nock, did he not cry why wilt thou dye? If thou wilt open me to I will come in and sup with thee: O sad condition,
+<pb n="12" facs="tcp:212040:8"/>is Christ calling thus upon thy poor perish<g ref="char:EOLhyphen"/>ing Soul, O will not thy poor Soul stand speechless before the Lord in the Great Day? when the Judge will say to the poor con<g ref="char:EOLhyphen"/>demned prisoner, what sayst thou for thy self, that sentence of Death, yea eternal Death should not be pronounced against thee? O will not thy silence give a doleful consent to the reading of thy righteous sen<g ref="char:EOLhyphen"/>tence, to be cast for ever out of his pre<g ref="char:EOLhyphen"/>sence?</p>
+               <p n="2">2. Such Souls that only have Christ stand at their Doors, their misery lies in this. If he comes not in himself none of his Be<g ref="char:EOLhyphen"/>nefits come in; If Christ be not yours sinners, what is his will never be yours: how ma<g ref="char:EOLhyphen"/>ny of us love him rather for what he brings than what he is; I tell you my beloved, it is the person of Christ that is to be the object of our Faith and Love.</p>
+               <p n="1">1 There is no room for Adoption, but by taking Christ, receiving Christ. To as many as received him he gave power to be<g ref="char:EOLhyphen"/>come the Sons of God, we are all the Chil<g ref="char:EOLhyphen"/>dren of God through Faith in Christ.</p>
+               <p n="2">2. There's no room for Justification, but by taking Christ: <hi>we are justified by Faith, Rom.</hi> 5.1.</p>
+               <pb n="13" facs="tcp:212040:8"/>
+               <p n="3">3. No room for Union, but by taking Christ: <hi>I will come in to him, &amp;c.</hi>
+               </p>
+               <p n="4">4. No room for Communion: <hi>I will Sup with him.</hi>
+               </p>
+               <p n="5">5. No room for Acceptance; we have access with confidence through the Faith of him.</p>
+               <p>Oh sad case! to be stript of all these at once: by Christ standing at the Door and the sinner refusing to give him entrance.</p>
+               <p n="3">3. The misery of a sinner at whose Door Christ stands, is, such a Soul is a dead Soul: he that hath the Son hath Life.</p>
+               <p n="4">4. A Soul that hath Christ standing but at the Door, his misery will appear in Christ departing; Christ will not always wait, and when he goeth away all that will do thy soul good goeth with him; the Lord Jesus when he departeth marketh the Door: and then wo be to that Soul when the destroying An<g ref="char:EOLhyphen"/>gel cometh: Sinner know you may weary God, as well as Man; you have wearied man, and will you weary God also? <hi>Isa</hi> 7.13. O think what will become of your Souls: If God say once to you, as he did to them, <hi>Hos.</hi> 6. I will return to my place, in Allusion to a Judge that is going off a Bench: O then the Prisoner cries mightily for Mercy: O poor Souls what and if the Lord should go
+<pb n="14" facs="tcp:212040:9"/>off the Mercy-seat before you be reconci<g ref="char:EOLhyphen"/>led to him? O cry for pardon before he go.</p>
+               <p>But I must hasten to the second Use of the Doctrine.</p>
+               <p>If Christ stands at the Door of many Pro<g ref="char:EOLhyphen"/>fessors and Sinners,</p>
+               <p>Then it is a word of Exortation to all, both Professors and Sinners to let Christ in, O let us give the Lord Jesus house-room and heart<g ref="char:EOLhyphen"/>room: shall Christ come and beg room and you deny him? we would not do thus with a friend, nay not with a stranger, let him stand at the Door hour after hour; and shall we deal thus with Christ? nay, who hath stood year after year, as he said, <hi>Three years have I come seeking Fruit on this Figtree, and found none, Luk.</hi> 13.7, 8. so may he say, many years have I stood, waited and knockt and called for Entrance, but could find none, none answered or opened to me: O how sad is this that the Lord Jesus should be thus dealt withal?</p>
+               <p>Sinners I would to God I could perswade you this day to open to Christ; and to press you to it, I shall lay down several Motives.</p>
+               <p n="1">1. Let us open to Christ, both Professors and Sinners, and let him in at the door be<g ref="char:EOLhyphen"/>fore he departeth; you know standing is a
+<pb n="15" facs="tcp:212040:9"/>wearysom posture to us, but not so it seems to Christ: we read of the Lord Jesus, he stood at the Spouses door, until his Locks were fill'd with the Dews of the night; O the wonderful patience of Christ, O admire his long-suffering; he might have march'd, If you and I had not opened unto him im<g ref="char:EOLhyphen"/>mediately; Jesus Christ hath stood many a year at thy door, and said as once to <hi>Jerusa<g ref="char:EOLhyphen"/>lem: O Jerusalem,</hi> when wilt thou be made clean, when shall it once be? Sinner how can you think he will stand any longer, who hath stood so long already, do not weary him, sinner, but now open to him.</p>
+               <div n="2" type="subsection">
+                  <head>Second Motive,</head>
+                  <p>To open to him, he will not stand long: O how should this awaken drousie Professors and dead Sinners? what and if this should be the last call, the last knock that ever thou should<g ref="char:EOLhyphen"/>est have, if after this ordinance, the Seal of a hard heart should be clapt upon thee if thy Door after this day, be not only shut, but sea<g ref="char:EOLhyphen"/>led; what a sad condition were then thy poor soul in? well thou knowest not but thy spiritual Judgment is at the Door, my spirit shall not always strive with man: what and if Christ should say now at the close of this Exer<g ref="char:EOLhyphen"/>cise, let them alone: Professors and sinners you that have not opened to Christ, this day
+<pb n="16" facs="tcp:212040:10"/>is fast approaching upon you, when he will say to you, as to <hi>Jerusalem,</hi> when he wept over it, <hi>O Jerusalem hadst thou known in this thy day,</hi> &amp;c. <hi>Luk.</hi> 19.40, 41, 42. you had a day in which Christ stood at your Doors, and woo<g ref="char:EOLhyphen"/>ed your poor Souls, to let him in, he called upon you to let him in, nay begged it at your hands: but now it is hid from your Eyes: poor sinners consider this, be instructed <hi>O Jerusalem:</hi> (be instructed <hi>O England, Least my Soul depart from thee, and I leave thee desolate, Jer.</hi> 6.8.</p>
+               </div>
+               <div n="3" type="subsection">
+                  <head>Third Motive,</head>
+                  <p>To open to Christ. He calls to be let in, and complains he is shut out; O what sweet calls were they that he gave the Spouse when he called her to open to him; open unto me thy Husband, unto me thy Lord, 2. my Sister what will you let Relations be shut out? 3. my Love, now he treats her above a Sister, as a Spouse, (my Dove) 5. undefiled one, O who could stand out against such a call?</p>
+               </div>
+               <div n="4" type="subsection">
+                  <head>Fourth Motive,</head>
+                  <p>To open to Christ. Christ standing at your Door will aggravate your misery when you are shut out of Glory: If Christ had not waited on you so long, stood so long, as he said, If I had not come to have spoken unto you, you had not had sin: but his standing at the Door waiting for Entrance, and your
+<pb n="17" facs="tcp:212040:10"/>denial of him will be an aggravation to you, when you are shut out of Heaven, <hi>Mat,</hi> 8.12. the Children of the Kingdom shall be shut out. Oh how sad will this be? he once stood at the Door of your hearts and you would not let him in, now the day is coming, you must stand at his Door, and he will not let you in. And none went in with the Marriage, but such as were ready, and the Door was shut, and then what a dismal cry was there, open, open unto us. O remember that word, the Aggravation lies there, <hi>And you your selves thrust out, Luk.</hi> 13.25.</p>
+               </div>
+               <div n="5" type="subsection">
+                  <head>Fifth Motive,</head>
+                  <p>To open to Christ, is the dignity of his person, I stand at the Door and knock, <hi>He is the King of Glory, Philip.</hi> 24.7. <hi>be you lift up you everlasting Gates, and the King of Glory shall enter in:</hi> O shall such worms as we keep this glorious King at our Doors; we read a glorious description of God, <hi>Isa,</hi> 57.15. The high and lofty one that inhabits Eternity, and says, O poor soul can this high and lofty one condescend so low, as to come into my heart: O he that inhabits Eternity, will he dwell in such a wretched soul as mine? yea, that he will, also with him that is of an humble and contrite heart will I dwell (saith God) O now sinner, Consider who it is that stands at the Door: who would keep out such a person as this?</p>
+               </div>
+               <div n="6" type="subsection">
+                  <pb n="18" facs="tcp:212040:11"/>
+                  <head>Sixth Motive,</head>
+                  <p>To open to Christ: Consider he hath o<g ref="char:EOLhyphen"/>pened his heart unto you, and all that he might get into your hearts, 1 <hi>John</hi> 18. <hi>Isa.</hi> 30.21. Jesus Christ sets forth his heart be<g ref="char:EOLhyphen"/>fore us; and shall we after all these plain dis<g ref="char:EOLhyphen"/>coveries of his heart in the Gospel keep him out of doors.</p>
+               </div>
+               <div n="7" type="subsection">
+                  <head>Seventh Motive,</head>
+                  <p>To open unto Christ: Then the destroyer shall pass over, he will then sprinkle his Blood upon your Door-post. O what a mercy would it be to have the token of pacification and a<g ref="char:EOLhyphen"/>tonement fixed upon your Doors, then we shall be safely protected in times of divine wrath, therefore we read <hi>Isa</hi> 26.19. <hi>Enter into the Chambers and shut the Doors, till the Indignation be over past;</hi> what a mercy would it be to have the destroying Angel pass over you, when some of your Neighbours shall be smitten with the wrath of God?</p>
+               </div>
+               <div n="3" type="subsection">
+                  <head>Eighth and last Motive,</head>
+                  <p>To open unto Christ: For consider by his coming into you, your poor Souls will be dis<g ref="char:EOLhyphen"/>possessed of the strong man armed: beloved, there is never a poor Soul out of Jesus Christ, but is really possessed by Satan in a spiritual sense, therefore we read of the spirit work<g ref="char:EOLhyphen"/>ing in the Children of Disobedience.</p>
+                  <p>Now the letting in of Christ would be the
+<pb n="19" facs="tcp:212040:11"/>ejection of Satan, when a strong man armed keepeth his place, his goods are in peace, but when a stronger than he comes upon him and overcomes him, he taketh from him his Armour, wherein he trusted, and divideth, the Spoils, <hi>Luk.</hi> 11.21, 22. <hi>Matt.</hi> 12.29. the strong man is Satan armed with all his sub<g ref="char:EOLhyphen"/>tilty, to keep our Christ; the Palace or House, is the heart of a poor Creature, before Christ enter in upon it, his goods are in peace, <hi>(viz.)</hi> all is quiet and still and at rest, in the Soul, but now a stronger than he enters, that is Jesus Christ, he comes and takes possession of the Soul and turns out Satan O what a mercy will this be for Satan, to be cast out and Christ to come in? but I have done with the Motives. And methinks I hear some poor soul say I can<g ref="char:EOLhyphen"/>not tell what hinders opening to Christ, I de<g ref="char:EOLhyphen"/>sire to open unto him, but alas I find I do not o<g ref="char:EOLhyphen"/>pen to him, he is but at the Door yet, and he was there several years ago. Now what are the lets, and barrs that keep him out? before you have the helps to let him in, it is convenient you should know the Hindrances, that keep him out, and that I may convince you, consider,</p>
+                  <p n="1">1. That which keeps Christ at the Door, is self-confidence, and conceitedness of our good Estate, this was the hindrance to Christ, coming in to those poor <hi>Laodicians:</hi> they were rich in their own opinions, such were
+<pb n="20" facs="tcp:212040:12"/>the Pharisees, whole souls, and so looked not after a Physician; now Christ hath no<g ref="char:EOLhyphen"/>thing to do with such souls, <hi>he came not to call the Righteous, but Sinners to Repentance.</hi>
+                  </p>
+                  <p n="2">2. That which keeps Christ out is resting in a formal <hi>Laodican</hi> Profession, and thus they deceive themselves. They think they have let him into their hearts, when they let him in by Profession into their Lives: it was a complaint of a Father, how many kiss Christ, but few love Christ, your Professi<g ref="char:EOLhyphen"/>on is but a kiss a meer Complement, if you do not let him take possession of your Souls: <hi>It is not every one that says Lord, Lord, can enter into the Kingdom of Heaven, Matt.</hi> 7.23.24, 25.</p>
+                  <p n="3">3. That which keeps Christ out of the Soul is persons ignorance of their need of Christ: O what opening to Christ would there be, and what running after him? what crying out <hi>come in thou blessed of the Lord, why standest thou without?</hi> O then thy soul will cry out; none but Christ, none but Christ.</p>
+                  <p n="4">4<seg rend="sup">th.</seg> Hindrance which keeps Christ out, poor souls reserving some beloved Lust. Con<g ref="char:EOLhyphen"/>sider sinner, Christ and Sin are like <hi>Sarah</hi> and <hi>Hagar:</hi> they cannot dwell together; alas poor soul there is no room for Christ, thy heart is filled already.</p>
+                  <p n="5">5<seg rend="sup">th.</seg> Hindrance that keeps Christ out of the Scul is, the pride of poor Souls. They are too
+<pb n="21" facs="tcp:212040:12"/>proud to open to Christ: but remember sinner, Christ resists the proud a far of: <hi>but with the humble he hath promised to dwell, Gen.</hi> 4.5. but I must hasten to a Conclusion which shall be in a word of Direction,</p>
+                  <p>To many poor Souls that are stirred, or prest in spirit, to open unto Christ: but they find it hard work, their hearts are so barr'd and troubled against the Lord Jesus, how (says such Souls) shall we be help'd to open unto him?</p>
+                  <p>First Help to open to Christ: Sinner be sure to stir with the first motions and calls of the spirit of God to open. Poor Souls are sno<g ref="char:EOLhyphen"/>ring on their Beds of security, and are fast asleep: and Christ comes to them as he did to the Spouse, and says <hi>open to me my Sister, &amp;c.</hi> but alas poor souls are not awakened.</p>
+                  <p>Second Help to open to Christ is this get a true and unfeigned Love to him: we open to those we love. If we love Christ with all our heart, we should open our hearts to him more. We read of a sweet passage, when the Spouses heart was shut against him, what did Christ go away and leave her in her shut up condition? no it is true he did withdraw: but he first went to her, and dropt Myrrh up<g ref="char:EOLhyphen"/>on the handles of the Lock, he put his hand at the hole of the Door, and what then? her Bowels were moved for him: she was now
+<pb n="22" facs="tcp:212040:13"/>affected, and afflicted with her unkindness, in not opening to Christ, and what did issue in? <hi>I rose to open to my beloved.</hi>
+                  </p>
+                  <p>Third direction to help to open to Christ: be sure soul to take heed of calling Satan into Council with you, when you are under any Inclinations of heart to open to Christ: as soon as Christ comes to knock at a poor souls Door to get in, then Satan will be about the Door to keep Christ out. O therefore con<g ref="char:EOLhyphen"/>sult not with him, he is a great Enemy to souls opening to Christ upon these Accounts. First he knows he shall be turned out if Christ come in, when a stronger than he enters his house; O he is loath to be turned out of his Possessions, then he rages because his time is short. Secondly, He knows when Christ comes into the soul he will bring his train, this Glorious King hath a double train, first a train of Graces, Secondly, a train of Com<g ref="char:EOLhyphen"/>forts, now Satan envies the Soul should have any Grace. or any Comfort, he knows as grace comes in grace goes out. Thirdly, as Comfort comes in Corruption goes out, there<g ref="char:EOLhyphen"/>fore we read <hi>the fear of the Lord and the Com<g ref="char:EOLhyphen"/>forts of the Holy Ghost goe together, Act</hi> 9.3.11. and what is the meaning of Christs supping with the Soul, but his good cheer he brings in with him, his Feast of fat things, <hi>viz. The Comforts of his Love, Cant.</hi> 5.1.</p>
+                  <pb n="23" facs="tcp:212040:13"/>
+                  <p>Fourth, and last Direction, would you open to Christ, then labour to get more ex<g ref="char:EOLhyphen"/>perimental acquaintance with the Exercise of Faith: as you have heard Love to be one open<g ref="char:EOLhyphen"/>ing Grace, so is Faith another; Faith makes a discovery of Christ to the Soul as the only desirable Object; Faith sets love on work; Faith purifies the Soul from the filth of sins as well as the guilt of sin. I did intend to have shown you more of the Excellency of this Grace of Faith: but the time is too far spent the rest I shall reserve for another opportuni<g ref="char:EOLhyphen"/>ty: the Lord give a Blessing to what hath been delivered in much weakness and raise it up with much strength.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_note">
+            <p>
+               <hi>Books Printed for and Sold by</hi> Charles Pas<g ref="char:EOLhyphen"/>singer <hi>at the</hi> Seven Stars <hi>on</hi> London-Bridge.</p>
+            <p n="1">1. The wise Merchant, or the Pearless Pearl.</p>
+            <p n="2">2. Death's Dialogues, or a Diologue be<g ref="char:EOLhyphen"/>tween Life and Death.</p>
+            <p n="3">3. Christ's first Sermon.</p>
+            <p n="4">4. Christ's last Sermon.</p>
+            <p n="5">5. The School of Grace.</p>
+            <p n="9">9. A Discourse of spiritual Wisdom.</p>
+            <pb n="24" facs="tcp:212040:14"/>
+            <p>These six last are three pence a piece.</p>
+            <p n="1">1. Man's last End, being a Funeral Ser<g ref="char:EOLhyphen"/>mon. Preached by Mr. <hi>James Janeway.</hi>
+            </p>
+            <p n="2">2. Christ in the Clouds coming to Judg<g ref="char:EOLhyphen"/>ment, by Mr. <hi>Tho. Wadesworth.</hi>
+            </p>
+            <p n="3">3. The Christians Temptations and Try<g ref="char:EOLhyphen"/>als, in a Sermon by Mr. <hi>Ralph Vennings.</hi>
+            </p>
+            <p n="4">4. A seasonable Warning to all Impeni<g ref="char:EOLhyphen"/>tent Sinners, in a Sermon by Mr. <hi>Richard Baxter.</hi>
+            </p>
+            <p n="5">5. A Voice from Heaven to the people of <hi>England,</hi> in a Sermon by Mr. <hi>Henry Stubs.</hi>
+            </p>
+            <p n="6">6. Sighs from Hell, or the Groans of the Damned, in a Sermon by <hi>Roger Hough.</hi>
+            </p>
+            <p n="7">7. Tormenting Tophet, or a terrible Description of Hell in a Sermon.</p>
+            <p>These are but two pence apiece.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
